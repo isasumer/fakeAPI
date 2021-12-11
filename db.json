@@ -1,0 +1,58 @@
+{
+    "ValidationStats":[
+        {
+          "key": "1",
+          "name": "Normal",
+          "accuracy": "79.47%",
+          "tp": "1194",
+          "tn": "1235",
+          "fp": "179",
+          "fn": "310",
+          "sensitivity": "0.86",
+          "specificity": "0.87",
+          "precision": "0.87",
+          "fpr": "0.12"
+        },
+        {
+          "key": "2",
+          "name": "Pneumonia",
+          "accuracy": "84.11%",
+          "tp": "1235",
+          "tn": "1194",
+          "fp": "310",
+          "fn": "179",
+          "sensitivity": "0.87",
+          "specificity": "0.79",
+          "precision": "0.79",
+          "fpr": "0.20"
+        }
+      ],
+      "TrainingStats": [
+        {
+          "key": "1",
+          "name": "Normal",
+          "accuracy": "79.47%",
+          "tp": "1194",
+          "tn": "1235",
+          "fp": "179",
+          "fn": "310",
+          "sensitivity": "0.86",
+          "specificity": "0.87",
+          "precision": "0.87",
+          "fpr": "0.12"
+        },
+        {
+          "key": "2",
+          "name": "Pneumonia",
+          "accuracy": "84.11%",
+          "tp": "1235",
+          "tn": "1194",
+          "fp": "310",
+          "fn": "179",
+          "sensitivity": "0.87",
+          "specificity": "0.79",
+          "precision": "0.79",
+          "fpr": "0.20"
+        }
+      ]
+}
